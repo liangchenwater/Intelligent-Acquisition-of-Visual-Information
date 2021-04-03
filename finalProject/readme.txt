@@ -1,1 +1,0 @@
-Image-based BRDF measurement
