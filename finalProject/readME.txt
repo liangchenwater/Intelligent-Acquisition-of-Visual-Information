@@ -1,3 +1,4 @@
+Image-based BRDF measurement
 File_Hierarchy
 -Calibration
 	-some imgs for calibration
